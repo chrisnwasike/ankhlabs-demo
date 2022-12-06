@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Ankh Labs</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Favicons -->
+  <link href="img/favicon.png" rel="icon">
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Custom fonts for this template -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
+
+
+  <link href="https://fonts.cdnfonts.com/css/monument-extended" rel="stylesheet">
+  <link href="https://fonts.cdnfonts.com/css/proxima-nova-2" rel="stylesheet">
+
+  <link href="css/ankhmain.css?v=1.3" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+<div class="animated-bg">
+
+  <nav class="navbar navbar-dark fixed-top p-4">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">
+        <img src="img/logos1.png" class="img-responsive" />
+      </a>
+
+      <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="offcanvas offcanvas-end text-bg-dark offcanvas-bg" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
+        <div class="offcanvas-header">
+          <h4 class="offcanvas-title text-white" id="offcanvasDarkNavbarLabel">Main Menu</h4>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+
+        <div class="offcanvas-body">
+          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Case Studies</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Contact Info</a>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </nav>
+
+
+  <header class="masthead text-dark text-center">
+    <div class="container">
+
+      <div class="col-md-12 py-4 mx-auto">
+        <div class="row gx-5">
+
+          <div class="col-md-10 py-1 mx-auto" style="margin-top: 550px">
+            <div class="">
+              <p class="display-5 mt-5 mb-3 pt-5 px-2 text-light">
+                <span style="font-weight:300; letter-spacing: -1px">SHAPING THE</span><br />
+                <span style="font-weight:800; letter-spacing: 1px">BLOCKCHAIN.</span>
+              </p>
+            </div>
+
+            <a href="#ankh-bio"><img src="img/chevrolet-down.png" class="pt-2" /></a>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </header>
+
+</div>
+
+
+<section id="ankh-bio" class="ankh-bio text-light">
+  <div class="container">
+
+    <div class="col-md-12 py-4 mx-auto">
+      <div class="row">
+
+        <div class="col-md-6">
+          <p class="display-5 my-5 py-5 text-light" style="font-weight:400">
+            AnkhLabs is a web3 agency founded by 'SeventyNine' -
+            a well-established web2 marketing & design agency
+            operating since 2009.
+          </p>
+
+          <p>
+            <button type="button" class="btn btn-lg btn-outline-primary rounded-pill white-trans-pill">Book a Call</button>
+          </p>
+        </div>
+
+        <div class="col-md-4 offset-md-2">
+          <div class="my-5 py-5">
+            <img src="img/anubis_video_holder.png" class="img-fluid" alt="">
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="services text-light">
+
+  <div class="container">
+
+    <div class="col-md-10 py-4 mx-auto">
+      <h2 class="text-center mt-5 display-2">Three Ankh Arms</h2>
+
+      <div class="row">
+
+        <div class="col-md-4 p-2 text-center">
+          <div class="circle my-5 py-5 mx-auto">
+            <p class="">Services</p>
+          </div>
+        </div>
+
+        <div class="col-md-4 p-2 text-center">
+          <div class="circle my-5 py-5 mx-auto">
+            <p class="">Launchpad</p>
+          </div>
+        </div>
+
+        <div class="col-md-4 p-2 text-center">
+          <div class="circle my-5 py-5 mx-auto">
+            <p class="">Tools</p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="container three-gods-bg">
+
+    <div class="col-md-12 py-4 mx-auto">
+      <h2 class="text-center mt-5 display-2">We Integrate, Collaborate and Challenge</h2>
+
+      <div class="row">
+
+        <div class="col-md-4 p-5 text-left">
+          <div class="my-5 py-5">
+            <h2 class="mb-3">Services</h2>
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur
+              adipiscing elit. Etiam eu turpis molestie,
+              dictum est a, ma]ttis tellus. Sed dignissim,
+              metus nec fringilla accumsan, risus sem
+              sollicitudin lacus, ut interdum tellus elit sed
+              risus. Maetis tellus. Sed dignissim, metus nec
+              fringilla accumsan, risus sem sollicitudin lacus,
+              ut interdum tellus elit sed risus. Mae
+            </p>
+          </div>
+        </div>
+
+        <div class="col-md-4 p-5 text-left">
+          <div class="my-5 py-5">
+            <h2 class="mb-3">Launchpad</h2>
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur
+              adipiscing elit. Etiam eu turpis molestie,
+              dictum est a, ma]ttis tellus. Sed dignissim,
+              metus nec fringilla accumsan, risus sem
+              sollicitudin lacus, ut interdum tellus elit sed
+              risus. Maetis tellus. Sed dignissim, metus nec
+              fringilla accumsan, risus sem sollicitudin lacus,
+              ut interdum tellus elit sed risus. Mae
+            </p>
+          </div>
+        </div>
+
+        <div class="col-md-4 p-5 text-left">
+          <div class="my-5 py-5">
+            <h2 class="mb-3">Tools</h2>
+            <p class="lead">Lorem ipsum dolor sit amet, consectetur
+              adipiscing elit. Etiam eu turpis molestie,
+              dictum est a, ma]ttis tellus. Sed dignissim,
+              metus nec fringilla accumsan, risus sem
+              sollicitudin lacus, ut interdum tellus elit sed
+              risus. Maetis tellus. Sed dignissim, metus nec
+              fringilla accumsan, risus sem sollicitudin lacus,
+              ut interdum tellus elit sed risus. Mae
+            </p>
+          </div>
+        </div>
+
+        <div class="col text-end">
+          <button type="button" class="btn btn-outline-primary rounded-pill white-trans-pill">Book a Call &rarr; </button>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="container mainservices">
+
+    <div class="col-md-12 py-4 mx-auto">
+
+      <div class="row">
+
+        <div class="col-md-4 p-5 text-left">
+          <div class="my-5 onesection d-flex flex-column">
+            <div class="section-heading d-flex align-items-start">01</div>
+            <div class="section-content d-flex align-items-end">
+              BRAND STRATEGY<br />
+              VISUAL IDENTITY<br />
+              COPYWRITING<br />
+              CREATIVE DIRECTION<br />
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4 p-5 text-left">
+          <div class="my-5 onesection d-flex flex-column">
+            <div class="section-heading d-flex align-items-start">02</div>
+            <div class="section-content d-flex align-items-end">
+              ADVERTISING<br />
+              PRINT<br />
+              SOCIAL MEDIA<br />
+              PHOTOGRAPHY & FILM<br />
+              ART DIRECTION<br />
+              RETAIL<br />
+              ASSET PRODUCTION<br />
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4 p-5 text-left">
+          <div class="my-5 onesection d-flex flex-column">
+            <div class="section-heading d-flex align-items-start">03</div>
+            <div class="section-content d-flex align-items-end">
+              WEB DESIGN<br />
+              DEVELOPMENT<br />
+              DIGITAL EXPERIENCES<br />
+              AUGUMENTED REALITY<br />
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+
+<section class="casestudies text-light">
+
+  <div class="container stories">
+
+    <div class="col-md-12 py-4 mx-auto">
+
+      <div class="row">
+
+        <div class="col-md-12 mb-4">
+          <div class="main-story">
+            <div class="p-5">
+              <h2 class="display-5 pt-5 mt-5">NFTs-<br />Warriors of Ankh</h2>
+              <p>A 1800 collections based on Ancient Egyptian methology,
+                <br />with a sci-fi twist</p>
+              <p><button type="button" class="btn btn-outline-primary rounded-pill white-solid-pill">Read more</button></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+          <div class="sub-story" style="background-image: url(img/ourmarketplace.jpg);">
+            <div class="p-5">
+              <h2 class="display-5 pt-5 mt-5">Our very own<br />Marketplace</h2>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br />Lorem ipsum dolor sit amet</p>
+              <p><button type="button" class="btn btn-outline-primary rounded-pill white-solid-pill">Read more</button></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 mb-4">
+          <div class="sub-story" style="background-image: url(img/ourtools.jpg);">
+            <div class="p-5">
+              <h2 class="display-5 pt-5 mt-5">Our own tools-<br />Ankhr Apps</h2>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br />Lorem ipsum dolor sit amet</p>
+              <p><button type="button" class="btn btn-outline-primary rounded-pill white-solid-pill">Read more</button></p>
+            </div>
+          </div>
+        </div>
+
+
+
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="container samplecases">
+
+    <div class="col-md-12 my-5 my-5">
+      <div class="text-center mt-5">
+        <img src="img/casestudy-frame.png" alt="">
+        <h2 class="display-5 mt-4">Case Studies</h2>
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-4 mb-4">
+          <div class="p-5">
+            <div class="projects text-center projects-fusionara">
+              <h2 class="pt-5 mt-5">Fusionara</h2>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+          <div class="p-5">
+            <div class="projects text-center projects-kandyland">
+              <h2 class="pt-5 mt-5">KandyLand</h2>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+          <div class="p-5">
+            <div class="projects text-center projects-slickcity">
+              <h2 class="pt-5 mt-5">Slick City</h2>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section class="contact text-light">
+
+  <div class="container-fluid letswork">
+
+    <div class="col-md-12 my-5">
+      <div class="text-center mb-5">
+        <h2 class="display-4 mb-4">Let's work together</h2>
+        <button type="button" class="btn btn-outline-primary white-trans-pill">Book a Call &rarr; </button>
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-6 p-5" style="background-image: url(img/pitch1.png); background-size:cover;">
+          <div class="row">
+            <div class="col-12">
+              <div class="p-5 text-left">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus,
+                    ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                   Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac
+                 </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="row border-bottom">
+            <div class="col-4 p-3">
+              <div class="display-4 text-center">54</div>
+            </div>
+            <div class="col-8 p-3 d-flex align-items-center">
+              <div class="text-left">
+                <p>Web3 brands built</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="row border-bottom">
+            <div class="col-4 p-3">
+              <div class="display-4 text-center">54</div>
+            </div>
+            <div class="col-8 p-3 d-flex align-items-center">
+              <div class="text-left">
+                <p>Web3 brands built</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="row border-bottom">
+            <div class="col-4 p-3">
+              <div class="display-4 text-center">54</div>
+            </div>
+            <div class="col-8 p-3 d-flex align-items-center">
+              <div class="text-left">
+                <p>Web3 brands built</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+
+
+        <div class="col-md-6">
+          <div class="p-5 d-flex align-items-center">
+            <div class="p-5">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus,
+                ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+               Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac
+             </p>
+             <img src="img/half_border.png" class="mt-4 img-fluid" />
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="container nowaiting">
+    <div class="col-md-8 mx-auto my-5">
+      <div class="text-center mb-5">
+        <h2 class="display-1 mb-4">WHAT ARE YOU<br />WAITING FOR?</h2>
+        <button type="button" class="btn btn-outline-primary white-trans-pill">Book a Call &rarr; </button>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+
+
+<footer class="text-light">
+
+  <div class="container">
+    <div class="col-md-10 mx-auto my-5">
+      <div class="text-left">
+        <h2 class="display-6 mb-0">Leicester, UK</h2>
+        <p class="mb-0" style="color: #999696;">info@ankhlabs.co</p>
+        <p class="mb-0">Unit 12, Abbey Business Park, Friday Street</p>
+        <p class="mb-0">Leicester LE1 3BW</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container mt-5 pt-5">
+      <div class="col-md-10 mx-auto mt-5 pb-3" style="border-bottom:3px solid #fff;">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="img/logo_footer.png" class="img-fluid"  />
+          </div>
+          <div class="col-md-6 mt-2 text-end">
+            <img src="img/footer_design.png" class="img-fluid"  />
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-10 mx-auto mt-1 pb-3">
+        <div class="row">
+          <div class="col-md-6">
+            info@ankhlabs.co
+          </div>
+          <div class="col-md-6 mt-2 text-end" style="word-spacing: 15px;">
+            <span class="pr-4">Instagram</span>
+            <span class="pr-4">Twitter</span>
+            <span class="pr-4">Discord</span>
+            <span class="pr-4">Tiktok</span>
+          </div>
+        </div>
+      </div>
+  </div>
+
+</footer>
+
+
+
+</body>
+
+
+</html>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/jquery.js"></script>
+<script>
+$(window).scroll(function(){
+  $('nav').toggleClass('scrolled', $(this).scrollTop() > 500);
+  });
+</script>
