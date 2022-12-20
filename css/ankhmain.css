@@ -1,10 +1,10 @@
 body::after{
    position:absolute; width:0; height:0; overflow:hidden; z-index:-1; // hide images
-   content:url(../img/animated_logo.gif) url(../img/bluecloudmastsmall.png) url(../img/one-osiris.jpg);   // load images
+   content:url(../img/animated_logo_new.gif) url(../img/bluecloudmastsmall.png) url(../img/one-osiris.jpg);   // load images
 }
 
 .animated-bg {
-  background-image: url(../img/animated_logo.gif);
+  background-image: url(../img/animated_logo_new.gif);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
